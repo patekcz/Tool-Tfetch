@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/714c013f-d885-4b39-ae34-0ae12d381db8)
+
 # Shell Profile Script
 
 This script is designed to display system information and the current time in the terminal. The script runs only if the current directory is the user's home directory.
